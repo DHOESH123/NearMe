@@ -199,8 +199,8 @@ school.html
 ![alt text](<Screenshot 2024-04-09 113209.png>)
 ![alt text](<Screenshot 2024-04-09 113217.png>)
 ![alt text](<Screenshot 2024-04-09 113236.png>)
-![alt text](<Screenshot 2024-04-09 113245.png>)
-![alt text](<Screenshot 2024-04-09 113252.png>)
+![alt text](<Screenshot 2024-04-09 115750.png>)
+![alt text](<Screenshot 2024-04-09 115933.png>)
 
 
 
