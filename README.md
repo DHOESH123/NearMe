@@ -47,7 +47,8 @@ map.html
 </map>
     </body>
 </html>
-
+```
+```
 college.html
 <html>
     <head>
@@ -69,7 +70,8 @@ college.html
         </p>
     </body>
 </html>
-
+```
+```
 horbour.html
 html>
     <head>
@@ -90,8 +92,8 @@ html>
         </p>
     </body>
 </html>
-
-
+```
+```
 Market.html
 
 <html>
@@ -113,8 +115,8 @@ Market.html
         </p>
     </body>
 </html>
-
-
+```
+```
 parotta.html
 <html>
     <head>
@@ -161,8 +163,12 @@ parotta.html
         </p>
     </body>
 </html>
+```
 
+
+```
 school.html
+
 <html>
     <head>
         <title>My City</title>
@@ -182,9 +188,10 @@ school.html
         </p>
     </body>
 </html>
-
-
 ```
+
+
+
 
 
 ## OUTPUT
